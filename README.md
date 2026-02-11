@@ -1,6 +1,6 @@
 # git-remote-lab
 # Background
-This lab is intended for students to practice the basics of Github: creating a branch, push, pull, and resolving basic merge conflicts
+This lab is intended for students to practice the basics of Github: creating a branch, push, pull, resolving basic merge conflicts, and opening a pull request.
 
 # Instructions
 1. Clone this repo and open in VS Code.
