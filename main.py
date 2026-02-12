@@ -1,1 +1,1 @@
-print("Forget about it")
+print("LR: Confirm branch and push")
