@@ -1,1 +1,1 @@
-print("Yamato")
+print("LR: Confirm correct branch and push")
