@@ -1,0 +1,1 @@
+print('Favorite restaurant: Chick-Fil-A')
