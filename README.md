@@ -9,7 +9,7 @@ This lab is intended for students to practice the basics of Github: creating a b
 4. Push those changes to your branch.
 5. I will then add an edit to your branch.
 6. Pull those changes and if there is a merge conflict accept the incoming change.
-7. Below the incoming change add a print statement with your favorite desert.
+7. Below the incoming change add a print statement with your favorite dessert.
 8. Push those changes to your branch.
 9. Open a pull request for me to review.
 
